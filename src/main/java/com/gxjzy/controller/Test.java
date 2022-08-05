@@ -6,11 +6,11 @@ public class Test {
         System.out.println("idea集成Git dev");
         System.out.println("push 远程提交");
 
-        System.out.println("11111111111111111111");
-        System.out.println("11111111111111111111");
-        System.out.println("11111111111111111111");
-        System.out.println("11111111111111111111");
-        System.out.println("11111111111111111111");
+        System.out.println("2222222222222");
+        System.out.println("2222222222222");
+        System.out.println("22222222222222");
+        System.out.println("2222222222222");
+        System.out.println("222222222222222");
     }
 }
 
